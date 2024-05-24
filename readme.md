@@ -37,7 +37,4 @@ Questo programma è uno strumento semplice e intuitivo per installare librerie P
 
 Siamo sempre aperti a contributi e suggerimenti per migliorare il programma. Sentiti libero di creare una richiesta di pull nel nostro repository Git.
 
-## Contatti
-
-Per eventuali domande, problemi o suggerimenti, contattaci all'indirizzo email supporto@example.com.
 
